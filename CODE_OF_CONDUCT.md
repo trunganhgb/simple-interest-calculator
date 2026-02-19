@@ -1,5 +1,11 @@
 # Contributor Covenant Code of Conduct
-
+## Our Pledge
+## Our Standards
+## Enforcement Responsibilities
+## Scope
+## Enforcement
+## Enforcement Guidelines
+## Attribution
 ## Our Pledge
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone.
 
